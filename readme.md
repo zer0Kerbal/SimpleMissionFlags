@@ -21,17 +21,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleMissionFlags/master/img/HeroLogo_1920x1920.png" alt="SimpleMissionFlags Hero" width="50%" height="50%">
 
-### Description by [Enceos][enceos]
-
-* It's always nice to add some extra fuel without adding much to the size of the spacecraft
-* Has 4 sizes of different length
-* Very Fairing friendly due to its shape
-* Has a stock crossfeed switcher
-* Integrated decoupler
-* Aeroynamic nosecap to close the ends or make a boat
-* Stockalike texture will blend in with any craft
-* TweakScale support
-
 ---
 
 ### See More
@@ -47,10 +36,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Help Wanted
 
-> * Compatibility patches
-> * Variant Textures
-> * Contracts for these glorious parts
-> * More models/textures like for the mk1 et al profiles.
+> * More Mission Flags
+> * Variant Flags
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlight
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
