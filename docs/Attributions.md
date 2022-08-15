@@ -24,7 +24,7 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/"><img border="0" alt="Enceos" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/dancing_cat-avatar.gif.db945a3aa9705efccf5e235458898d1c.thumb.gif.760e54706f08b3d3b5c5bf6284999e29.gif" width="50" height="50" > Enceos</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/" alt="Simple Mission Flags (SMF)">Simple Mission Flags (SMF)</a> addon!</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/"><img border="0" alt="Enceos" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/dancing_cat-avatar.gif.db945a3aa9705efccf5e235458898d1c.thumb.gif.760e54706f08b3d3b5c5bf6284999e29.gif" width="50" height="50" > Enceos</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/209364-*/" alt="Simple Mission Flags (SMF)">Simple Mission Flags (SMF)</a> addon!</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
@@ -52,7 +52,6 @@ updated: 03 Jun 2022
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:150%;" /> English</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png " alt="Dutch" style="zoom:150%;" /> Dutch - thank you to <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/104304-*/"><img border="0" alt="renejant" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-104304.jpg" width="25" height="25" > renejant</a> <i>(bedankt!)</i></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
@@ -68,7 +67,7 @@ updated: 03 Jun 2022
 </ul>
 
 <!-- links -->
-[DROP]: https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/ "Drop Tank Wrappers"
+[SMF]: https://forum.kerbalspaceprogram.com/index.php?/topic/209364-*/ "Simple Mission Flags (SMF)"
 
 [enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "enceos"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
